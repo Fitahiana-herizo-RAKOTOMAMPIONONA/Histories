@@ -1,0 +1,6 @@
+[submodule "frontstory"]
+	path = frontstory
+	url = https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/Front-Histories.git
+[submodule "story"]
+	path = story
+	url = https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/Back-Histories.git
